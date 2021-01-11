@@ -25,7 +25,7 @@ features = ["io"]
 criterion = "0.3"
 futures = "0.3"
 quickcheck = "0.9"
-quickcheck_macros = "0.9"
+quickcheck_macros = "1.0"
 
 [[bench]]
 name = "pipe"
