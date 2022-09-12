@@ -22,7 +22,7 @@ default-features = false
 features = ["io"]
 
 [dev-dependencies]
-criterion = "0.3"
+criterion = "0.4"
 futures = "0.3"
 quickcheck = "0.9"
 quickcheck_macros = "0.9"
